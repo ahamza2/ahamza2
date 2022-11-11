@@ -24,7 +24,7 @@
 
 <p align = "center">
   <a href="https://github.com/ahamza2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamza2&theme=carbon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamza2&theme=dark">
   </a>
   <a href="https://github.com/ahamza2">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahamza2&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
