@@ -1,0 +1,1 @@
+<img https://www.google.com/url?sa=i&url=https%3A%2F%2Femojigraph.org%2Fman-teacher-medium-skin-tone%2F&psig=AOvVaw1hE-Qg6lteLApeicA851l4&ust=1669743493515000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCbys210fsCFQAAAAAdAAAAABAN >
