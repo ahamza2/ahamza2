@@ -1,3 +1,9 @@
+<p align="right">
+	<img alt="ahamza2's visitors" src="https://komarev.com/ghpvc/?username=ahamza2&color=8c36db&style=flat&label=visitors" />
+	<img alt="ahamza2's followers" src="https://img.shields.io/github/followers/ahamza2?color=blueviolet" />
+	<img alt="ahamza2's stars" src="https://img.shields.io/github/stars/ahamza2?color=blueviolet" />
+</p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px" height="30px">, I'm AARAB Hamza</h1>
      <p align = "center">
