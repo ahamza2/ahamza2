@@ -1,7 +1,7 @@
 <p align="right">
 	<img alt="ahamza2's visitors" src="https://komarev.com/ghpvc/?username=ahamza2&color=000080&style=flat&label=visitors" />
-	<img alt="ahamza2's followers" src="https://img.shields.io/github/followers/ahamza2?color=blueviolet" />
-	<img alt="ahamza2's stars" src="https://img.shields.io/github/stars/ahamza2?color=blueviolet" />
+	<img alt="ahamza2's followers" src="https://img.shields.io/github/followers/ahamza2?color=000080" />
+	<img alt="ahamza2's stars" src="https://img.shields.io/github/stars/ahamza2?color=000080" />
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
