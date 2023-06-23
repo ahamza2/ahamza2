@@ -9,7 +9,7 @@
      <p align = "center">
 	<a href="https://github.com/ahamza2">
 <!-- 		<img align="center" src="https://badge.mediaplus.ma/greenbinary/haarab" alt="haarab's 42 stats" /> -->
-		<a <img src="https://badge42.vercel.app/api/v2/clj8uvugd002508mt95reb3dh/stats?cursusId=21&coalitionId=277" alt="haarab's 42 stats" /></a>
+		<img src="https://badge42.vercel.app/api/v2/clj8uvugd002508mt95reb3dh/stats?cursusId=21&coalitionId=277" alt="haarab's 42 stats" />
 <!-- 		<img align="center" src="https://badge.mediaplus.ma/binary/haarab)" (https://github.com/oakoudad/badge42) -->
 	</a>
 	
