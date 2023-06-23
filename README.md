@@ -8,8 +8,8 @@
     width="30px" height="30px">, I'm AARAB Hamza</h1>
      <p align = "center">
 	<a href="https://github.com/ahamza2">
-<!-- 		<img align="center" src="https://badge.mediaplus.ma/greenbinary/haarab" alt="haarab's 42 stats" /> -->
-		<img align="center" src="https://badge.mediaplus.ma/binary/haarab)" (https://github.com/oakoudad/badge42)
+		<img align="center" src="https://badge.mediaplus.ma/greenbinary/haarab" alt="haarab's 42 stats" />
+<!-- 		<img align="center" src="https://badge.mediaplus.ma/binary/haarab)" (https://github.com/oakoudad/badge42) -->
 	</a>
 	
 </p>
