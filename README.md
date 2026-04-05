@@ -1,58 +1,125 @@
 <p align="right">
-	<img alt="ahamza2's visitors" src="https://komarev.com/ghpvc/?username=ahamza2&color=000080&style=flat&label=visitors" />
-	<img alt="ahamza2's followers" src="https://img.shields.io/github/followers/ahamza2?color=000080" />
-	<img alt="ahamza2's stars" src="https://img.shields.io/github/stars/ahamza2?color=000080" />
+  <img alt="ahamza2 visitors" src="https://komarev.com/ghpvc/?username=ahamza2&color=0b3d91&style=flat&label=visitors" />
+  <img alt="ahamza2 followers" src="https://img.shields.io/github/followers/ahamza2?color=0b3d91&label=followers" />
+  <img alt="ahamza2 stars" src="https://img.shields.io/github/stars/ahamza2?affiliations=OWNER%2CCOLLABORATOR&color=0b3d91&label=total%20stars" />
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="30px" height="30px">, I'm AARAB Hamza</h1>
-     <p align = "center">
-	<a href="https://github.com/oakoudad/badge42">
-		<img src="https://badge.mediaplus.ma/binary/haarab" alt="haarab's 42 stats" />
-	</a>
+<h1 align="center">Hi, I am Hamza Aarab</h1>
+
+<p align="center">
+  Full-Stack Developer focused on real-time systems, clean architecture, and useful products.
 </p>
-<!-- 	<a href="https://github.com/ahamza2">
-<!-- 		<img align="center" src="https://badge.mediaplus.ma/greenbinary/haarab" alt="haarab's 42 stats" /> -->
-<!-- 		<img src="https://badge42.vercel.app/api/v2/clj8uvugd002508mt95reb3dh/stats?cursusId=21&coalitionId=277" alt="haarab's 42 stats" /> -->
-<!-- 		<img align="center" src="https://badge.mediaplus.ma/binary/haarab)" (https://github.com/oakoudad/badge42) -->
-<!-- 	</a> -->
-	
 
-<h3 align="left">Connect with me:</h3>
-<div style="margin-top:24px; display:flex; gap:12px; justify-content:center;">
-	<a  href="mailto:hamzaaarab78@gmail.com">
-  <img style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-	<a href="https://github.com/ahamza2">
-  <img  style="display:inline-block; border-radius:6px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-	<a href="https://www.Twitter.com/hamzaaarab001">
-  <img style="display:inline-block; border-radius:6px"  src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-  </a>
-</div>
-
-<br>
-
-<p align = "center">
-  <a href="https://github.com/ahamza2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamza2&theme=dark">
-  </a>
-  <a href="https://github.com/ahamza2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahamza2&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/binary/haarab" alt="haarab 42 stats" />
   </a>
 </p>
 
 <p align="center">
- <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150">
- <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150">
- <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/>
+  <a href="mailto:haarab.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ahamza2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/hamzaaarab001">
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## About Me
 
+- Full-stack developer from Morocco, currently at 1337 Coding School (UM6P).
+- Internship experience at MASCIR - UM6P on an educational real-time mobile platform.
+- Strong foundation in C/C++, Python (Django), JavaScript, REST APIs, and WebSocket systems.
+- I enjoy building products that are both technically solid and clear for end users.
 
-<!-- <a href="https://github.com/ahamza2"><img alt="haarab's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=ahamza2&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+## Impact Snapshot
+
+| Area | Highlights |
+|---|---|
+| Internship | Full Stack Developer Intern at MASCIR - UM6P (Oct 2025 - Feb 2026) |
+| Main Product | RyGame - Green Business (educational carbon trading simulation) |
+| Scope | 16,000+ lines of code across mobile and backend modules |
+| API Surface | 25+ endpoints for auth, social features, profile, and game flows |
+| Delivery | Real-time multiplayer, social interactions, and production-style backend setup |
+
+---
+
+## Project Spotlight
+
+### RyGame - Green Business (MASCIR - UM6P)
+
+Educational multiplayer mobile game that teaches carbon market concepts through simulation.
+
+- Built with Flutter (frontend) and Django + Channels (backend).
+- Real-time multiplayer synchronization using WebSocket.
+- JWT + Google OAuth authentication.
+- Social features: friends, invitations, notifications, and game history.
+- Dockerized backend stack with PostgreSQL for stable development and deployment workflows.
+
+Real-time architecture idea:
+
+```text
+Client action -> Server validation -> Authoritative state update -> Broadcast to all players
+```
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,django,js,react,html,css,docker,postgres,git,linux,bash&perline=7" alt="Tech stack" />
+</p>
+
+---
+
+## Featured Projects
+
+### ft_transcendence
+- Pong platform with authentication and real-time chat.
+- Built with Django REST API, WebSocket, Vanilla JavaScript, and PostgreSQL.
+- Dockerized architecture with responsive frontend.
+
+### IRC (C++)
+- IRC chat server over TCP/IP sockets.
+- Includes authentication, channel management, and real-time messaging.
+- Tested with HexChat and built with strict memory control.
+
+### Dockception
+- Docker infrastructure for Nginx, MariaDB, and WordPress on Debian.
+- Custom networking and Bash-based orchestration scripts.
+
+---
+
+## Current Focus
+
+- Designing reliable server-authoritative multiplayer flows.
+- Improving backend architecture and performance in Django services.
+- Building cleaner developer workflows with Docker and automation.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahamza2&show_icons=true&theme=tokyonight&hide_border=true" alt="ahamza2 github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamza2&layout=compact&theme=tokyonight&hide_border=true" alt="ahamza2 top languages" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=ahamza2&theme=tokyonight&hide_border=true" alt="ahamza2 streak" />
+</p>
+
+---
+
+## Contact
+
+- Email: haarab.me@gmail.com
+- GitHub: github.com/ahamza2
+- X/Twitter: @hamzaaarab001
+
+I am always open to discussing software engineering, real-time systems, and impactful product ideas.
